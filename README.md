@@ -1,5 +1,6 @@
 # 文章归档
 前端踩坑文章列表，持续更新中......
+
 （以下列表可能更新不及时，所有文章可点击issue页查看，欢迎star！）
 
 ## HTML
@@ -49,9 +50,8 @@
 - [vue改变数组排序，视图未更新？](https://github.com/Daotin/front-end-notes/issues/79)
 - [父传子的prop数据改变，但子组件未刷新？](https://github.com/Daotin/front-end-notes/issues/82)
 
-
-
-
+## 微信公众号开发
+- [微信公众号开发（Demo）](https://github.com/Daotin/front-end-notes/issues/86)
 
 ## 综合
 - [web前端进阶系列文章目录](https://github.com/Daotin/front-end-notes/issues/54)
@@ -66,7 +66,7 @@
 - [JavaScript：JS需要模拟类吗？](https://github.com/Daotin/front-end-notes/issues/68)
 
 
-## 《浏览器工作原理与实践》
+## 《浏览器工作原理与实践》专栏
 - [01 Chrome浏览器架构](https://github.com/Daotin/front-end-notes/issues/27)
 - [02 TCP协议：如何保证页面文件能被完整送达浏览器？](https://github.com/Daotin/front-end-notes/issues/28)
 - [03 HTTP请求流程：为什么很多站点第二次打开速度会很快？](https://github.com/Daotin/front-end-notes/issues/29)
@@ -88,11 +88,9 @@
 - [21 Chrome开发者工具：利用网络面板做性能分析](https://github.com/Daotin/front-end-notes/issues/45)
 
 
-## Vue.js组件精讲
+## 《Vue.js组件精讲》专栏
 - [vue组件精讲01](https://github.com/Daotin/front-end-notes/issues/85)
 
-## 微信公众号开发
-- [微信公众号开发（Demo）](https://github.com/Daotin/front-end-notes/issues/86)
 
 
 
