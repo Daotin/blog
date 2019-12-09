@@ -50,7 +50,7 @@
 - [vue改变数组排序，视图未更新？](https://github.com/Daotin/front-end-notes/issues/79)
 - [父传子的prop数据改变，但子组件未刷新？](https://github.com/Daotin/front-end-notes/issues/82)
 
-## 微信公众号开发
+## 微信公众号/小程序
 - [微信公众号开发（Demo）](https://github.com/Daotin/front-end-notes/issues/86)
 
 ## 综合
