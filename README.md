@@ -1,5 +1,6 @@
 # 文章归档
-前端踩坑文章列表，持续更新中......（以下列表可能更新不及时，所有文章可点击issue页查看，欢迎star！）
+前端踩坑文章列表，持续更新中......
+（以下列表可能更新不及时，所有文章可点击issue页查看，欢迎star！）
 
 ## HTML
 - [聊聊HTML5中的Web Notification桌面通知](https://github.com/Daotin/front-end-notes/issues/3)
