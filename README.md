@@ -16,8 +16,8 @@
 
 ## JavaScript
 
-- 前端路由的实现原理](https://github.com/Daotin/front-end-notes/issues/4)
-- 3分钟搞定图片懒加载](https://github.com/Daotin/front-end-notes/issues/46)
+- [前端路由的实现原理](https://github.com/Daotin/front-end-notes/issues/4)
+- [3分钟搞定图片懒加载](https://github.com/Daotin/front-end-notes/issues/46)
 - [详细梳理ajax跨域4种解决方案](https://github.com/Daotin/front-end-notes/issues/55)
 - [图片瀑布流，so easy!](https://github.com/Daotin/front-end-notes/issues/56)
 - [各种JavaScript排序算法](https://github.com/Daotin/front-end-notes/issues/60)
@@ -35,11 +35,11 @@
 
 
 ## jQuery
-- jquery中attr和prop区别](https://github.com/Daotin/front-end-notes/issues/7)
+- [jquery中attr和prop区别](https://github.com/Daotin/front-end-notes/issues/7)
 
 ## Vue
-- vue的provide和inject特性](https://github.com/Daotin/front-end-notes/issues/5)
-- vue获取后端数据放在created还是mounted方法里面？](https://github.com/Daotin/front-end-notes/issues/6)
+- [vue的provide和inject特性](https://github.com/Daotin/front-end-notes/issues/5)
+- [vue获取后端数据放在created还是mounted方法里面？](https://github.com/Daotin/front-end-notes/issues/6)
 - [vue路由相关](https://github.com/Daotin/front-end-notes/issues/69)
 - [vue hover事件如何触发？](https://github.com/Daotin/front-end-notes/issues/74)
 - [vue中子组件直接修改父组件prop属性bug](https://github.com/Daotin/front-end-notes/issues/75)
@@ -59,19 +59,19 @@
 
 
 ## 《重学前端》专栏
-- 前端的学习路线与方法](https://github.com/Daotin/front-end-notes/issues/8)
-- JavaScript：关于类型，有哪些你不知道的细节？](https://github.com/Daotin/front-end-notes/issues/9)
+- [前端的学习路线与方法](https://github.com/Daotin/front-end-notes/issues/8)
+- [JavaScript：关于类型，有哪些你不知道的细节？](https://github.com/Daotin/front-end-notes/issues/9)
 - [JavaScript：面向对象 vs JavaScript中的面向对象](https://github.com/Daotin/front-end-notes/issues/67)
 - [JavaScript：JS需要模拟类吗？](https://github.com/Daotin/front-end-notes/issues/68)
 
 
 ## 《浏览器工作原理与实践》
-- 01 Chrome浏览器架构](https://github.com/Daotin/front-end-notes/issues/27)
-- 02 TCP协议：如何保证页面文件能被完整送达浏览器？](https://github.com/Daotin/front-end-notes/issues/28)
-- 03 HTTP请求流程：为什么很多站点第二次打开速度会很快？](https://github.com/Daotin/front-end-notes/issues/29)
-- 04 导航流程：从输入URL到页面展示，这中间发生了什么？](https://github.com/Daotin/front-end-notes/issues/30)
-- 05 渲染流程（上）：HTML、CSS和JavaScript，是如何变成页面的？](https://github.com/Daotin/front-end-notes/issues/31)
-- 06 渲染流程（下）：HTML、CSS和JavaScript，是如何变成页面的？](https://github.com/Daotin/front-end-notes/issues/32)
+- [01 Chrome浏览器架构](https://github.com/Daotin/front-end-notes/issues/27)
+- [02 TCP协议：如何保证页面文件能被完整送达浏览器？](https://github.com/Daotin/front-end-notes/issues/28)
+- [03 HTTP请求流程：为什么很多站点第二次打开速度会很快？](https://github.com/Daotin/front-end-notes/issues/29)
+- [04 导航流程：从输入URL到页面展示，这中间发生了什么？](https://github.com/Daotin/front-end-notes/issues/30)
+- [05 渲染流程（上）：HTML、CSS和JavaScript，是如何变成页面的？](https://github.com/Daotin/front-end-notes/issues/31)
+- [06 渲染流程（下）：HTML、CSS和JavaScript，是如何变成页面的？](https://github.com/Daotin/front-end-notes/issues/32)
 - [07 变量提升：JavaScript代码是按顺序执行的吗？](https://github.com/Daotin/front-end-notes/issues/33)
 - [08 调用栈：为什么JavaScript代码会出现栈溢出？](https://github.com/Daotin/front-end-notes/issues/34)
 - [10 作用域链和闭包 ：代码中出现相同的变量，JavaScript引擎是如何选择的？](https://github.com/Daotin/front-end-notes/issues/35)
