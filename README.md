@@ -61,7 +61,4 @@
 
 </p></details>
 
-<details><summary>HTML</summary><p>
-- [聊聊HTML5中的Web Notification桌面通知](https://github.com/Daotin/front-end-notes/issues/3)
-</p></details>
 
