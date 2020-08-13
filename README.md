@@ -1,15 +1,16 @@
-# 前端笔记
-前端踩坑文章列表，持续更新中......
+# 前端笔记✒
+前端进阶文章列表，持续更新中...
+
+微信公众号「[前端队长](https://github.com/Daotin/pic/raw/master/wx.jpg)」，定位前端和认知分享，欢迎关注。 (*/ω＼*)
+
+![image](https://user-images.githubusercontent.com/23518990/90120671-977e8580-dd8d-11ea-93b8-5c5557e0b4ee.png)
 
 
-<details><summary>HTML</summary><p>
-
+## HTML
 - [聊聊HTML5中的Web Notification桌面通知](https://github.com/Daotin/fe-notes/issues/3)
 
-</p></details>
 
-<details><summary>CSS</summary><p>
-
+## CSS
 - [css实现左右两个div等高](https://github.com/Daotin/fe-notes/issues/1)
 - [css样式优先级计算规则](https://github.com/Daotin/fe-notes/issues/2)
 - [calc在css，less，scss用法](https://github.com/Daotin/fe-notes/issues/63)
@@ -25,10 +26,8 @@
 - [div盒子水平垂直居中方法](https://github.com/Daotin/fe-notes/issues/130)
 - [【转】如何隐藏滚动条？](https://github.com/Daotin/fe-notes/issues/131)
 
-</p></details>
 
-<details><summary>JavaScript</summary><p>
-
+## JavaScript
 - [前端路由的实现原理](https://github.com/Daotin/fe-notes/issues/4)
 - [3分钟搞定图片懒加载](https://github.com/Daotin/fe-notes/issues/46)
 - [详细梳理ajax跨域4种解决方案](https://github.com/Daotin/fe-notes/issues/55)
@@ -67,18 +66,14 @@
 - [文字背景对比度contrast ratio的计算公式](https://github.com/Daotin/fe-notes/issues/173)
 - [input输入框内容规范正则](https://github.com/Daotin/fe-notes/issues/174)
 
-</p></details>
 
-<details><summary>jQuery</summary><p>
-
+## jQuery
 - [jquery中attr和prop区别](https://github.com/Daotin/fe-notes/issues/7)
 - [jQuery中的done() fail() then() $when()到底是什么](https://github.com/Daotin/fe-notes/issues/124)
 - [jQuery ui中sortable draggable droppable的使用](https://github.com/Daotin/fe-notes/issues/171)
 
-</p></details>
 
-<details><summary>Vue.js</summary><p>
-
+## Vue.js
 - [vue的provide和inject特性](https://github.com/Daotin/fe-notes/issues/5)
 - [vue获取后端数据放在created还是mounted方法里面？](https://github.com/Daotin/fe-notes/issues/6)
 - [vue路由相关](https://github.com/Daotin/fe-notes/issues/69)
@@ -108,12 +103,15 @@
 - [简单总结Vue进入/离开过渡&动画](https://github.com/Daotin/fe-notes/issues/136)
 - [如何使用 v-model 绑定一个 computed 属性？](https://github.com/Daotin/fe-notes/issues/172)
 
-</p></details>
+
+## 前端职业发展
+- [我的前端成长之路（玉伯）](https://github.com/Daotin/fe-notes/issues/101)
+- [高级工程师的标准](https://github.com/Daotin/fe-notes/issues/148)
+- [前端的未来发展（winter）](https://github.com/Daotin/fe-notes/issues/164)
+- [前端工程师的危机](https://github.com/Daotin/fe-notes/issues/169)
 
 
-
-<details><summary>其他</summary><p>
-
+## 其他
 - [主流跨平台框架对比](https://github.com/Daotin/fe-notes/issues/106)
 - [一款超人气代码格式化工具prettier](https://github.com/Daotin/fe-notes/issues/127)
 - [简易flux项目](https://github.com/Daotin/fe-notes/issues/132)
@@ -127,18 +125,5 @@
 - [github常用搜索](https://github.com/Daotin/fe-notes/issues/162)
 - [Google搜索技巧](https://github.com/Daotin/fe-notes/issues/163)
 - [node启动报错 error code ELIFECYCLE](https://github.com/Daotin/fe-notes/issues/165)
-
-</p></details>
-
-
-
-<details><summary>前端职业发展</summary><p>
-
-- [我的前端成长之路（玉伯）](https://github.com/Daotin/fe-notes/issues/101)
-- [高级工程师的标准](https://github.com/Daotin/fe-notes/issues/148)
-- [前端的未来发展（winter）](https://github.com/Daotin/fe-notes/issues/164)
-- [前端工程师的危机](https://github.com/Daotin/fe-notes/issues/169)
-
-</p></details>
 
 
