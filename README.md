@@ -65,6 +65,7 @@
 - [前端文件如何上传](https://github.com/Daotin/fe-notes/issues/168)
 - [compositionstart和compositionend事件 ](https://github.com/Daotin/fe-notes/issues/170)
 - [文字背景对比度contrast ratio的计算公式](https://github.com/Daotin/fe-notes/issues/173)
+- [input输入框内容规范正则](https://github.com/Daotin/fe-notes/issues/174)
 
 </p></details>
 
