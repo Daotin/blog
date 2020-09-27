@@ -1,11 +1,6 @@
 # 前端博客✒
 前端进阶文章列表，持续更新中...
 
-微信公众号「[前端队长](https://github.com/Daotin/pic/raw/master/wx.jpg)」，定位前端和认知分享，欢迎关注。 (*/ω＼*)
-
-![image](https://user-images.githubusercontent.com/23518990/90120671-977e8580-dd8d-11ea-93b8-5c5557e0b4ee.png)
-
-
 ## HTML
 - [聊聊HTML5中的Web Notification桌面通知](https://github.com/Daotin/fe-notes/issues/3)
 
@@ -126,4 +121,8 @@
 - [Google搜索技巧](https://github.com/Daotin/fe-notes/issues/163)
 - [node启动报错 error code ELIFECYCLE](https://github.com/Daotin/fe-notes/issues/165)
 
+---
 
+微信公众号「[前端队长](https://github.com/Daotin/pic/raw/master/wx.jpg)」，定位前端和认知分享，欢迎关注。 (*/ω＼*)
+
+![image](https://user-images.githubusercontent.com/23518990/90120671-977e8580-dd8d-11ea-93b8-5c5557e0b4ee.png)
