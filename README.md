@@ -97,6 +97,7 @@
 - [Vue如何下载文件？](https://github.com/Daotin/fe-notes/issues/135)
 - [简单总结Vue进入/离开过渡&动画](https://github.com/Daotin/fe-notes/issues/136)
 - [如何使用 v-model 绑定一个 computed 属性？](https://github.com/Daotin/fe-notes/issues/172)
+- [vue中子组件使用$emit传值的种种情况](https://github.com/Daotin/fe-notes/issues/176)
 
 
 ## 前端职业发展
