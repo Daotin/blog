@@ -20,6 +20,7 @@
 - [你可能不知道的css-doodle](https://github.com/Daotin/fe-notes/issues/128)
 - [div盒子水平垂直居中方法](https://github.com/Daotin/fe-notes/issues/130)
 - [【转】如何隐藏滚动条？](https://github.com/Daotin/fe-notes/issues/131)
+- [css中好用的clamp()函数](https://github.com/Daotin/fe-notes/issues/177)
 
 
 ## JavaScript
