@@ -1,5 +1,7 @@
-# 前端博客✒
+# 🎉前端进阶笔记
 前端进阶文章列表，持续更新中...
+
+📌文章目录可能更新不及时，具体文章见Issues：https://github.com/Daotin/fe-blog/issues
 
 ## HTML
 - [聊聊HTML5中的Web Notification桌面通知](https://github.com/Daotin/fe-notes/issues/3)
