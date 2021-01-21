@@ -2,9 +2,11 @@
 
 ## 博客地址
 
-[https://github.com/Daotin/fe-blog](https://github.com/Daotin/fe-blog)
+仓库地址：[https://github.com/Daotin/fe-blog](https://github.com/Daotin/fe-blog)
 
-前端进阶文章持续更新中...，欢迎star.✨
+Gitbook地址（推荐）：[https://daotin.gitbook.io/fe-blog/](https://daotin.gitbook.io/fe-blog/) 
+
+前端进阶文章持续更新中...，欢迎star.✨✨✨
 
 ## 关于我
 
