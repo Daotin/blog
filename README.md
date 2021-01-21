@@ -1,14 +1,29 @@
 # 🎉前端进阶笔记
 
-前端进阶文章列表，持续更新中...
+## 博客地址
 
-📌文章目录可能更新不及时，具体文章见Issues：[https://github.com/Daotin/fe-blog/issues](https://github.com/Daotin/fe-blog/issues)
+[https://github.com/Daotin/fe-blog](https://github.com/Daotin/fe-blog)
 
-## HTML
+前端进阶文章持续更新中...，欢迎star.✨
+
+## 关于我
+
+> 你也可以从下面地方找到我 🌐
+
+> * [CSDN](https://blog.csdn.net/lvonve) 
+> * [博客园](https://www.cnblogs.com/lvonve/) 
+> * [掘金](https://juejin.im/user/2084329777534216) 
+> * 微信公众号：[前端队长](https://images.cnblogs.com/cnblogs_com/lvonve/1607764/o_gzh.jpg)
+
+## 目录
+
+> PS ：文章目录可能更新不及时。
+
+### HTML
 
 * [聊聊HTML5中的Web Notification桌面通知](https://github.com/Daotin/fe-notes/issues/3)
 
-## CSS
+### CSS
 
 * [css实现左右两个div等高](https://github.com/Daotin/fe-notes/issues/1)
 * [css样式优先级计算规则](https://github.com/Daotin/fe-notes/issues/2)
@@ -26,7 +41,7 @@
 * [【转】如何隐藏滚动条？](https://github.com/Daotin/fe-notes/issues/131)
 * [css中好用的clamp\(\)函数](https://github.com/Daotin/fe-notes/issues/177)
 
-## JavaScript
+### JavaScript
 
 * [前端路由的实现原理](https://github.com/Daotin/fe-notes/issues/4)
 * [3分钟搞定图片懒加载](https://github.com/Daotin/fe-notes/issues/46)
@@ -67,13 +82,13 @@
 * [input输入框内容规范正则](https://github.com/Daotin/fe-notes/issues/174)
 * [在页面离开前提醒你的beforeunload事件](https://github.com/Daotin/fe-notes/issues/178)
 
-## jQuery
+### jQuery
 
 * [jquery中attr和prop区别](https://github.com/Daotin/fe-notes/issues/7)
 * [jQuery中的done\(\) fail\(\) then\(\) $when\(\)到底是什么](https://github.com/Daotin/fe-notes/issues/124)
 * [jQuery ui中sortable draggable droppable的使用](https://github.com/Daotin/fe-notes/issues/171)
 
-## Vue.js
+### Vue.js
 
 * [vue的provide和inject特性](https://github.com/Daotin/fe-notes/issues/5)
 * [vue获取后端数据放在created还是mounted方法里面？](https://github.com/Daotin/fe-notes/issues/6)
@@ -105,14 +120,14 @@
 * [如何使用 v-model 绑定一个 computed 属性？](https://github.com/Daotin/fe-notes/issues/172)
 * [vue中子组件使用$emit传值的种种情况](https://github.com/Daotin/fe-notes/issues/176)
 
-## 前端职业发展
+### 前端职业发展
 
 * [我的前端成长之路（玉伯）](https://github.com/Daotin/fe-notes/issues/101)
 * [高级工程师的标准](https://github.com/Daotin/fe-notes/issues/148)
 * [前端的未来发展（winter）](https://github.com/Daotin/fe-notes/issues/164)
 * [前端工程师的危机](https://github.com/Daotin/fe-notes/issues/169)
 
-## 其他
+### 其他
 
 * [主流跨平台框架对比](https://github.com/Daotin/fe-notes/issues/106)
 * [一款超人气代码格式化工具prettier](https://github.com/Daotin/fe-notes/issues/127)
