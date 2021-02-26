@@ -27,7 +27,7 @@
 最高赞给出的解决方法是：放弃使用`scrollIntoView` 改用`scrollTop` 来操作滚动条。
 
 ```javascript
-var target = document.getElementById("target");
+let target = document.getElementById("target");
 target.parentNode.scrollTop = target.offsetTop;
 ```
 
@@ -50,10 +50,14 @@ target.parentNode.scrollTop = target.offsetTop;
 代码如下，加上动画：
 
 ```javascript
-var target = document.getElementById("target");
+let target = document.getElementById("target");
 
-$(target).animate({"scrollTop": target.offsetTop }, 'normal');
+$(target).parent().animate({"scrollTop": target.offsetTop }, 'normal');
 ```
+
+{% hint style="warning" %}
+注意：**父元素需要定位**（非`static` ）。
+{% endhint %}
 
 这是使用 jQuery 的`animate` 动画函数。
 
