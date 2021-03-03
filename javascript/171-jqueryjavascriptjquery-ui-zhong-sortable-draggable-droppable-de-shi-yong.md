@@ -138,9 +138,33 @@ dragInit() {
 },
 ```
 
-> 注意事项：
->
-> **每次dropInit函数初始化后，如果需要再次初始化，需要先销毁之前的放置对象**。否则第一次初始化后，比如某个地方A可以放置拖拽的元素，但是第二次初始化后，地方A就不可以放置了。然而实际上，如果你不把第一次初始化的dropInit函数销毁掉，地方A在第二次初始化后还是可以放置的。所以需要在拖拽停止的时候，销毁上一次的dropInit对象。
+{% hint style="warning" %}
+注意事项：
+
+**每次dropInit函数初始化后，如果需要再次初始化，需要先销毁之前的放置对象。**否则第一次初始化后，比如某个地方A可以放置拖拽的元素，但是第二次初始化后，地方A就不可以放置了。然而实际上，如果你不把第一次初始化的dropInit函数销毁掉，地方A在第二次初始化后还是可以放置的。所以需要在拖拽停止的时候，销毁上一次的dropInit对象。
+{% endhint %}
+
+### \(added in 20210303\)
+
+> 如何设置拖拽时出现滚动条，但是又不想让视图跟着滚动？
+
+可以设置属性`scroll: false,` 即可。
+
+```javascript
+$('.info-item').draggable({
+    helper: "clone",
+    containment: '.user-fields',
+    scroll: false,
+    start(event, ui) {
+        // 隐藏滚动条的显示
+        $('.user-fields').css({'overflow':'hidden'});
+    },
+    stop(event, ui) {
+        // 恢复滚动条的显示
+        $('.user-fields').css('overflow','auto');
+    },
+});
+```
 
 ## 三、dropable
 
