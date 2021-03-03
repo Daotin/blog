@@ -166,6 +166,8 @@ $('.info-item').draggable({
 });
 ```
 
+参考链接：[http://www.itxst.com/vue-draggable/2ije3a7n.html](http://www.itxst.com/vue-draggable/2ije3a7n.html)
+
 ## 三、dropable
 
 参数配置参考文档：[https://www.runoob.com/jqueryui/api-droppable.html](https://www.runoob.com/jqueryui/api-droppable.html)
