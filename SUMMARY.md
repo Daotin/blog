@@ -66,6 +66,7 @@
   * [120 IOS系统input输入框为readonly时， 隐藏键盘上的上下箭头](yi-dong-duan/120-ios-xi-tong-input-shu-ru-kuang-wei-readonly-shi-yin-cang-jian-pan-shang-de-shang-xia-jian-tou.md)
   * [121 vue-vue2.0做移动端开发用到的相关插件和经验总结](yi-dong-duan/121-vuevue2.0-zuo-yi-dong-duan-kai-fa-yong-dao-de-xiang-guan-cha-jian-he-jing-yan-zong-jie.md)
 * [Vue.js](vue.js/README.md)
+  * [Vue组件中如何引入外部的js文件](vue.js/vue-zu-jian-zhong-ru-he-yin-ru-wai-bu-de-js-wen-jian.md)
   * [69 vue路由相关](vue.js/69-vue-lu-you-xiang-guan.md)
   * [77 javascript-vue中点击屏幕其他区域关闭自定义div弹出框](vue.js/77-javascriptvue-zhong-dian-ji-ping-mu-qi-ta-qu-yu-guan-bi-zi-ding-yi-div-dan-chu-kuang.md)
   * [74 vue-vue hover事件如何触发？](vue.js/74-vuevue-hover-shi-jian-ru-he-chu-fa.md)
