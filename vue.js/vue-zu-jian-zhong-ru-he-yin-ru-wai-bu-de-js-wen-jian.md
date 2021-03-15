@@ -36,6 +36,8 @@
 
 ```javascript
 import { xxx } from '../js/xxx.js' //注意路径
+// 或者
+import xxx from '../js/xxx.js' //注意路径
 ```
 
 缺点：下载的静态文件才可以
