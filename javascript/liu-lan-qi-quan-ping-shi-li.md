@@ -33,7 +33,7 @@
 为了简单起见，使用了第三方封装的全屏插件`screenfull.js` ，配合 `es6-promise` 插件，可以兼容IE浏览器。
 
 {% hint style="warning" %}
-`screenfull.js` 不支持iPhone。
+`screenfull.js` 不支持iPhone 和 IE11- 。
 {% endhint %}
 
 ### 示例代码
@@ -86,8 +86,39 @@
 </html>
 ```
 
+### 支持IE11+
+
+由于IE浏览器全线不支持 Promise，所以需要安装 `es6-promise` 插件。
+
+![](../.gitbook/assets/image.png)
+
+
+
+由于其内部使用的仍然是 `Element.requestFullscreen()` ，而其的兼容性**只兼容IE11+**。
+
+所以IE9是无法全屏的。
+
+{% embed url="https://developer.mozilla.org/zh-CN/docs/Web/API/Element/requestFullScreen" %}
+
+![](../.gitbook/assets/image%20%281%29.png)
+
+#### 安装使用1
+
+```text
+npm install es6-promise --save
+```
+
+然后在 main.js 中引入：
+
+```text
+import promise from 'es6-promise';
+require('es6-promise').polyfill();
+promise.polyfill();
+```
+
 ### 参考链接
 
 * [https://github.com/sindresorhus/screenfull.js](https://github.com/sindresorhus/screenfull.js)
 * [https://github.com/stefanpenner/es6-promise](https://github.com/stefanpenner/es6-promise)
+* [vue项目兼容android低版本、兼容IE、ES6解决办法](https://blog.csdn.net/xr510002594/article/details/91378389)
 
