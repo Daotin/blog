@@ -268,3 +268,19 @@
 
 * [https://segmentfault.com/a/1190000012800450](https://segmentfault.com/a/1190000012800450)
 
+
+
+### \(added in 20210316\)
+
+#### 隐藏滚动条
+
+```css
+.element {
+    -ms-overflow-style: none; // IE10+
+    overflow: -moz-scrollbars-none; // firefox
+    &::-webkit-scrollbar { // chrome
+        width: 0 !important;
+    }
+}
+```
+
