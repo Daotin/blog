@@ -173,4 +173,6 @@
   * [165 node-error code ELIFECYCLE](qi-ta/165-node-error-code-elifecycle.md)
   * [142 要不要重复造轮子？](qi-ta/142-yao-bu-yao-zhong-fu-zao-lun-zi.md)
   * [187 关于highcharts极地图polar不显示line的问题](qi-ta/187-guan-yu-highcharts-ji-di-tu-polar-bu-xian-shi-line-de-wen-ti.md)
+* [工作经验](gong-zuo-jing-yan/README.md)
+  * [一次线上bug修复，论开发环境如何调试代码](gong-zuo-jing-yan/yi-ci-xian-shang-bug-xiu-fu-lun-kai-fa-huan-jing-ru-he-tiao-shi-dai-ma.md)
 
