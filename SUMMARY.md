@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🎉前端进阶笔记](README.md)
+* [📚 前端进阶笔记](README.md)
 * [HTML](html/README.md)
   * [3 聊聊HTML5中的Web Notification桌面通知](html/3-liao-liao-html5-zhong-de-web-notification-zhuo-mian-tong-zhi.md)
 * [CSS](css/README.md)
