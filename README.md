@@ -2,19 +2,22 @@
 
 ## 博客地址
 
-仓库地址：[https://github.com/Daotin/fe-blog](https://github.com/Daotin/fe-blog)
+仓库地址：[https://github.com/Daotin/fe-blog](https://github.com/Daotin/fe-blog) ，欢迎star.✨✨✨
 
 Gitbook地址（推荐）：[https://daotin.gitbook.io/fe-blog/](https://daotin.gitbook.io/fe-blog/) 
 
-前端进阶文章持续更新中...，欢迎star.✨✨✨
+前端进阶文章持续更新中...
+
+**更新记录：**
+
+{% page-ref page="changelog.md" %}
 
 ## 关于我
 
 > 你也可以从下面地方找到我 🌐
 
-> * [CSDN](https://blog.csdn.net/lvonve) 
-> * [博客园](https://www.cnblogs.com/lvonve/) 
 > * [掘金](https://juejin.im/user/2084329777534216) 
+> * [知乎](https://www.zhihu.com/people/daotin)
 > * 微信公众号：[前端队长](https://images.cnblogs.com/cnblogs_com/lvonve/1607764/o_gzh.jpg)
 
 ## 目录
@@ -148,5 +151,5 @@ Gitbook地址（推荐）：[https://daotin.gitbook.io/fe-blog/](https://daotin.
 
 微信公众号「[前端队长](https://github.com/Daotin/pic/raw/master/wx.jpg)」，定位前端和认知分享，欢迎关注。 \(_/ω＼_\)
 
-![image](https://user-images.githubusercontent.com/23518990/90120671-977e8580-dd8d-11ea-93b8-5c5557e0b4ee.png)
+![](.gitbook/assets/wei-xin-tu-pian-20210427113217.png)
 
