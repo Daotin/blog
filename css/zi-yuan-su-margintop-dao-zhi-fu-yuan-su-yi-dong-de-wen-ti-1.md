@@ -43,7 +43,7 @@
 
 上面两个p标签之间的间隔是20px。
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 **解决办法：**
 
@@ -102,7 +102,7 @@
 
 ```
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 **解决办法：**
 
@@ -136,7 +136,7 @@
 
 ```
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 **解决方法：**
 
