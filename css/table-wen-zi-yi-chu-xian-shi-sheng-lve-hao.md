@@ -2,7 +2,7 @@
 
 今天遇到一个css样式问题：
 
-![image](https://user-images.githubusercontent.com/23518990/113384759-51783f80-93b9-11eb-95f9-3c92b8ba345e.png)
+![](https://user-images.githubusercontent.com/23518990/113384759-51783f80-93b9-11eb-95f9-3c92b8ba345e.png)
 
 如图，在table里面，th 的文字如果太长的话，想要显示省略号会使用下面三行代码：
 
