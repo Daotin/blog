@@ -4,7 +4,7 @@
 
 仓库地址：[https://github.com/Daotin/fe-blog](https://github.com/Daotin/fe-blog) ，欢迎star.✨✨✨
 
-Gitbook地址（推荐）：[https://daotin.gitbook.io/fe-blog/](https://daotin.gitbook.io/fe-blog/) 
+博客地址（推荐）：[https://daotin.github.io](https://daotin.github.io) 
 
 前端进阶文章持续更新中...
 
