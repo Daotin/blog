@@ -1,24 +1,19 @@
-# 📚 前端进阶笔记
+# 📚 前端小记
 
-## 博客地址
+## 说明（2021-07-29）
 
-仓库地址：[https://github.com/Daotin/fe-blog](https://github.com/Daotin/fe-blog) ，欢迎star.✨✨✨
+- 该仓库为issues仓库，内容全部在issues中记录，仓库地址：[fe-tips](https://github.com/Daotin/fe-tips)；
+- 内容为记录工作和学习中前端的一些简短的**小知识点**；
+- 关于长文内容将转移到个人博客（[https://daotin.github.io](https://daotin.github.io) ）
 
-博客地址（推荐）：[https://daotin.github.io](https://daotin.github.io) 
+个人公众号「前端队长」，定位前端和认知分享，欢迎关注。 \(_/ω＼_\)
 
-前端进阶文章持续更新中...
+![前端队长](https://gitee.com/daotin/img/raw/master/gzh.png)
 
-**更新记录：**
 
-{% page-ref page="changelog.md" %}
+---
 
-## 关于我
-
-> 你也可以从下面地方找到我 🌐
-
-> * [掘金](https://juejin.im/user/2084329777534216) 
-> * [知乎](https://www.zhihu.com/people/daotin)
-> * 微信公众号：[前端队长](https://images.cnblogs.com/cnblogs_com/lvonve/1607764/o_gzh.jpg)
+<!--
 
 ## 目录
 
@@ -149,7 +144,5 @@
 * [Google搜索技巧](https://github.com/Daotin/fe-notes/issues/163)
 * [node启动报错 error code ELIFECYCLE](https://github.com/Daotin/fe-notes/issues/165)
 
-微信公众号「[前端队长](https://github.com/Daotin/pic/raw/master/wx.jpg)」，定位前端和认知分享，欢迎关注。 \(_/ω＼_\)
-
-![](.gitbook/assets/wei-xin-tu-pian-20210427113217.png)
+-->
 
